@@ -1,5 +1,6 @@
 import pyautogui, time
-print("\n\nExiting by CTRL+C.\n\n")
+print("Exiting by CTRL+C.\n")
+print("\n\n\nV 0.1\n")
 i=0
 while i <= 10:
 	pyautogui.move(2, 2)
